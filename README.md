@@ -1,5 +1,11 @@
 # poetry-aliases
 
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/poetry-aliases?logo=python&logoColor=white&style=for-the-badge)](https://pypi.org/project/poetry-aliases)
+[![PyPI](https://img.shields.io/pypi/v/poetry-aliases?logo=pypi&color=green&logoColor=white&style=for-the-badge)](https://pypi.org/project/poetry-aliases)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/celsiusnarhwal/poetry-aliases?logo=github&color=orange&logoColor=white&style=for-the-badge)](https://github.com/celsiusnarhwal/poetry-aliases/releases)
+[![PyPI - License](https://img.shields.io/pypi/l/poetry-aliases?color=03cb98&style=for-the-badge)](https://github.com/celsiusnarhwal/poetry-aliases/blob/main/LICENSE)
+[![Code style: black](https://aegis.celsiusnarhwal.dev/badge/black?style=for-the-badge)](https://github.com/psf/black)
+
 poetry-aliases is a [Poetry](https://python-poetry.org/) plugin that enables the creation of aliases for Poetry 
 commands.
 
